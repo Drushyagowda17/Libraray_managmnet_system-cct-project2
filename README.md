@@ -1,3 +1,6 @@
+This project was made for college assignmnet purpose.
+
+
 # Digital Library Management System
 
 A modern, responsive library management system built with React and Tailwind CSS. The system features five different catalogs (Health, Sports, Farming, Computers, and Education) with online reading capabilities for selected books.
@@ -72,38 +75,3 @@ digital-library/
 └── package.json       # Project dependencies
 ```
 
-## Technologies Used
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
-- Lucide React Icons
-
-## Development
-
-### Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-### Coding Standards
-
-- Use TypeScript for type safety
-- Follow ESLint configuration
-- Use Prettier for code formatting
-- Follow React best practices and hooks guidelines
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
